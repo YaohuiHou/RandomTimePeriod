@@ -1,6 +1,6 @@
-# test1
+# RandomTimePeriod
 
-> A Vue.js project
+> 生成随机时间段
 
 ## Build Setup
 
